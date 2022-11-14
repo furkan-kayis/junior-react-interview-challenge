@@ -1,0 +1,39 @@
+.App {
+    height: 88vh;
+}
+
+
+#header{
+    background-color: #3c6997;
+    color: #EFF6EE;
+    font-size: 2rem;
+    text-align: center;
+    padding-inline: 20px;
+}
+.dot {
+    height: 40px;
+    width: 40px;
+    background-color: #3C6997;
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    z-index: -1;
+    transition-property: all;
+    transition-duration: 5000ms;
+}
+
+.button {
+    cursor:pointer;
+    background-color: #DEE5E5;
+    color: #000505;
+    border: none;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: medium;
+}
+.button:disabled {
+    visibility: hidden;
+}.button:active {
+    background-color: #3f4f5f;
+}
