@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/junior-react-interview-challenge/static/css/main.7507b5fe.css",
+    "main.js": "/junior-react-interview-challenge/static/js/main.bc38360a.js",
+    "index.html": "/junior-react-interview-challenge/index.html",
+    "main.7507b5fe.css.map": "/junior-react-interview-challenge/static/css/main.7507b5fe.css.map",
+    "main.bc38360a.js.map": "/junior-react-interview-challenge/static/js/main.bc38360a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7507b5fe.css",
+    "static/js/main.bc38360a.js"
+  ]
+}
